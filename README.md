@@ -59,6 +59,3 @@ The system follows a layered architecture to ensure robust security at different
 ## License
 This project is released under the MIT License.
 
----
-For more details, refer to the full project documentation and implementation guide.
-
